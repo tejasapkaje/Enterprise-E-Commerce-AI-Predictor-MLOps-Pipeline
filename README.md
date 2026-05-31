@@ -84,4 +84,4 @@ ecommerce_ml_pipeline/
    * Terminal 2: Start the MLOps Auto-Scheduler
    python `auto_scheduler.py`
 
-## Built with ❤️ by an AI/ML Enthusiast & Data Engineer.
+## Built with ❤️ by an AI/ML Enthusiast & Data Scientist.
